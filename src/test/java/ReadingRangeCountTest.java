@@ -5,7 +5,7 @@ import static org.junit.Assert.assertNull;
 import java.util.List;
 
 import org.junit.Test;
-public class ReadRangeCountTest {
+public class ReadingRangeCountTest {
   @Test
   public void testRange() {
     assertNull(ReadingRangeCount.findNoOfReadingsInRange());
